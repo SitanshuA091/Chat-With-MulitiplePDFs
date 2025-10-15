@@ -1,6 +1,5 @@
 [theme]
 headingFontWeights=400
-baseFontSize = 15
 font = "sans-serif"
 headingFont= "Monospace"
 base = "dark"
@@ -10,10 +9,9 @@ secondaryBackgroundColor = "00fff"
 
 
 [theme.sidebar]
-baseFontSize = 15
 font = "monospace"
 headingFont = "sans-serif"
-textColor = "white"
+textColor = "black"
 backgroundColor = "00fff"
 secondaryBackgroundColor = "f0f8ff"
 showWidgetBorder = true
