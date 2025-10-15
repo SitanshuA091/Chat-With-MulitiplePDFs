@@ -1,0 +1,20 @@
+[theme]
+headingFontWeights=400
+baseFontSize = 15
+font = "sans-serif"
+headingFont= "Monospace"
+base = "dark"
+textColor = "white"
+backgroundColor = "#f0f8ff"
+secondaryBackgroundColor = "00fff"
+
+
+[theme.sidebar]
+baseFontSize = 15
+font = "monospace"
+headingFont = "sans-serif"
+textColor = "white"
+backgroundColor = "00fff"
+secondaryBackgroundColor = "f0f8ff"
+showWidgetBorder = true
+borderColor = "0000ff"
